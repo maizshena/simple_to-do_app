@@ -1,13 +1,10 @@
 # Simple To-Do App ✅
 
-A simple and lightweight To-Do application built with **Flutter**.  
-This project is created to practice basic state management, UI design, and Git workflow.
+## Deskripsi
+Aplikasi **To-Do sederhana** menggunakan **Flutter**.  
 
-## Features
-- ➕ Add new tasks  
-- ✅ Mark tasks as completed  
-- ❌ Delete tasks  
-- 📱 Responsive UI
+## State & Alasan
+Aplikasi ini menggunakan `setState` bawaan Flutter. Saya membangun simple to-do app karena lebih sederhana dan cukup mudah dipahami alur sistemnya.
   
 ## Screenshots
 
