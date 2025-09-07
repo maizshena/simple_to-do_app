@@ -13,5 +13,5 @@ This project is created to practice basic state management, UI design, and Git w
 
 | Main | Delete | Completed | Add Task | Delete Task |
 |------|-------|-----------|-----------|----------|
-| ![Home](assets/main.png) | ![Tasks](assets/delete.png) | ![Completed](assets/done.png) | ![Edit](assets/add_task.png) | ![Settings](assets/delete_task.png) |
+| ![Home](assets/main.png) | ![Tasks](assets/delete.png) | ![Completed](assets/done.png) | ![Edit](assets/add_task.png) | ![Settings](assets/edit_task.png) |
 
