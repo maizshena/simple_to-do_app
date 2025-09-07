@@ -7,10 +7,11 @@ This project is created to practice basic state management, UI design, and Git w
 - ➕ Add new tasks  
 - ✅ Mark tasks as completed  
 - ❌ Delete tasks  
-- 📱 Responsive UI  
-
+- 📱 Responsive UI
+  
 ## Screenshots
 
-| Home Screen | Task Completed |
-|-------------|----------------|
-| ![Home](assets/screenshots/home.png) | ![Completed](assets/screenshots/completed.png) |
+| Main | Delete | Completed | Add Task | Delete Task |
+|------|-------|-----------|-----------|----------|
+| ![Home](assets/main.png) | ![Tasks](assets/delete.png) | ![Completed](assets/done.png) | ![Edit](assets/add_task.png) | ![Settings](assets/delete_task.png) |
+
